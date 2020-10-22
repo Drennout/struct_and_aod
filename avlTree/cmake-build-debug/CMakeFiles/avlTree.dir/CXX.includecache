@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/serzhei/Projects/AOD/avlTree/main.cpp
+iostream
+-
+ctype.h
+-
+stdlib.h
+-
+iomanip
+/home/serzhei/Projects/AOD/avlTree/iomanip
+
