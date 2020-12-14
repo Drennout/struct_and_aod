@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\sereg\source\repos\just_app\just_app\Source.cpp(76,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  just_app.vcxproj -> C:\Users\sereg\source\repos\just_app\Debug\just_app.exe
